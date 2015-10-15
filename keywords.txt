@@ -1,0 +1,7 @@
+Neopixel  	KEYWORD1
+init           	KEYWORD2
+setPixelColor  KEYWORD2
+setStripColor  	KEYWORD2
+ConvertRGB     	KEYWORD2
+setBrightness  	KEYWORD2
+clear      	KEYWORD2
